@@ -1,0 +1,9 @@
+
+<dependencies>
+    <!-- Dependência do SQLite JDBC -->
+    <dependency>
+        <groupId>org.xerial</groupId>
+        <artifactId>sqlite3-jdbc</artifactId>
+        <version>3.36.0.1</version>
+    </dependency>
+</dependencies>
